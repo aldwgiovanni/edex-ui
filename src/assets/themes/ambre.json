@@ -1,0 +1,44 @@
+{
+    "colors": {
+        "r": 255,
+        "g": 176,
+        "b": 0,
+        "black": "#050301",
+        "light_black": "#0b0802",
+        "grey": "#2e2412",
+        "red": "#ff5f3a",
+        "green": "#b8d34a",
+        "yellow": "#ffd060",
+        "blue": "#6fa8dc",
+        "magenta": "#e07bb0",
+        "cyan": "#6fd3c2",
+        "white": "#e8d9b8",
+        "brightBlack": "#8a7656",
+        "brightRed": "#ff8a66",
+        "brightGreen": "#d4ec6e",
+        "brightYellow": "#ffe08a",
+        "brightBlue": "#9cc4ec",
+        "brightMagenta": "#f2a3cc",
+        "brightCyan": "#9eeadb",
+        "brightWhite": "#fff3dc"
+    },
+    "cssvars": {
+        "font_main": "United Sans Medium",
+        "font_main_light": "United Sans Light"
+    },
+    "terminal": {
+        "fontFamily": "Fira Mono",
+        "cursorStyle": "block",
+        "foreground": "#ffb000",
+        "background": "#0b0802",
+        "cursor": "#ffb000",
+        "cursorAccent": "#ffb000",
+        "selection": "rgba(255,176,0,0.3)"
+    },
+    "globe": {
+        "base": "#000000",
+        "marker": "#ffb000",
+        "pin": "#ffb000",
+        "satellite": "#ffd060"
+    }
+}
